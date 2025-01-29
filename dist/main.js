@@ -1,1 +1,0 @@
-(()=>{"use strict";document.getElementById("downloadBtn").addEventListener("click",(function(){const e=document.createElement("a");e.href="assets/LUIS_CANTOR_CV.PDF",e.download="LUIS_CANTOR_CV.PDF",document.body.appendChild(e),e.click(),document.body.removeChild(e)}))})();
